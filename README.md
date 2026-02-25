@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/Images/cards_logo_transparent.png" alt="Judgement Scorekeeper Logo" width="220" />
+  <img src="cards_logo_transparent.png" alt="10-10 Scorekeeper Logo" width="220" />
 </p>
 
 # 10-10 Scorekeeper
