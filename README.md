@@ -3,19 +3,22 @@
 </p>
 
 # 10-10 Scorekeeper
+Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524
+10-10 Scorekeeper)!
+
 ### Copyright 2026 by Ian Weatherburn
 ianweatherburn@gmail.com
 
 ## Description
 
-10-10 (also known as "Judgement", "Oh Pshaw!" or "O Hell") is a popular trick-taking card game for 3-7 players that combines strategy, skill, and a bit of luck.
+10-10 (also known as "Judgement", "Oh Pshaw!", "Trumps", or "O Hell") is a popular trick-taking card game for 3-7 players that combines strategy, skill, and a bit of luck.
 Players must accurately predict how many tricks they'll win each round, making it both challenging and exciting for card game enthusiasts.
 
 **Objective**: Score the most points by accurately bidding the number of tricks you'll win in each round. Exact bids earn bonus points, while missed bids may result in penalties.
 
 ## Overview
 
-A SwiftUI scorekeeper app for the trick-taking card game **Judgement**.
+An iOS SwiftUI scorekeeper app for the trick-taking card game **Judgement**.
 Scorekeeper tracks bids, tricks made, scores, dealer rotation, and trump suits across all rounds of a Judgement game. It supports 3–7 players, four different scoring modes, and persists game state so a game can be resumed if the app is closed. The Scorekeeper app also tracks player statistics across games.
 This app does **not** implement the card game itself; it is a companion scorekeeper for players at a physical table.
 
@@ -36,6 +39,7 @@ This app does **not** implement the card game itself; it is a companion scorekee
 - **Live Widget:** Home Screen live widget showing current round, trump card, scoring mode, number of cards to be dealt, player scores, and current dealer
 - **Dynamic Island:** Large and Small dynamic islands showing current round, trumps, cards to be dealt and score details
 - **Watch OS Live Stack:** Live Stack on Apple Watch showing current round, trumps and number of cards to be dealt
+- **Voice Announcements:** Announce the current round, trump suit, number of cards to be dealt, and the current dealer.
 
 ## Supports
 
