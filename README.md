@@ -3,8 +3,7 @@
 </p>
 
 # 10-10 Scorekeeper
-Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)
-10-10 Scorekeeper)!
+Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)!
 
 ### Copyright 2026 by Ian Weatherburn
 ianweatherburn@gmail.com
