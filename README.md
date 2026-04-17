@@ -5,24 +5,21 @@
 # 10-10 Scorekeeper
 Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)!
 
-### Copyright 2026 by Ian Weatherburn
+### Copyright © 2026 by Ian Weatherburn
 ianweatherburn@gmail.com
 
 ## Description
-
 10-10 (also known as "Judgement", "Oh Pshaw!", "Trumps", or "O Hell") is a popular trick-taking card game for 3-7 players that combines strategy, skill, and a bit of luck.
 Players must accurately predict how many tricks they'll win each round, making it both challenging and exciting for card game enthusiasts.
 
 **Objective**: Score the most points by accurately bidding the number of tricks you'll win in each round. Exact bids earn bonus points, while missed bids may result in penalties.
 
 ## Overview
-
 An iOS SwiftUI scorekeeper app for the trick-taking card game **Judgement**.
 Scorekeeper tracks bids, tricks made, scores, dealer rotation, and trump suits across all rounds of a Judgement game. It supports 3–7 players, four different scoring modes, and persists game state so a game can be resumed if the app is closed. The Scorekeeper app also tracks player statistics across games.
 This app does **not** implement the card game itself; it is a companion scorekeeper for players at a physical table.
 
 ## Key Features
-
 - **Player Management:** Add, select, and order players via drag-and-drop to reflect table seating
 - **Automatic Round Calculation:** Adjusts rounds and max cards based on player count and a 52-card deck constraint
 - **Trump Rotation:** Hearts -> Clubs -> Diamonds -> Spades -> No Trumps, cycling across all rounds
@@ -41,7 +38,9 @@ This app does **not** implement the card game itself; it is a companion scorekee
 - **Voice Announcements:** Announce the current round, trump suit, number of cards to be dealt, and the current dealer.
 
 ## Supports
-
 - iOS 26.0+
 - iPhone portrait orientation only
 - iPhone / Apple Watch Widgets and Stacks
+
+## Other Apps by Ian Weatherburn
+- [Canasta Companion - Scorekeeper](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524) - A scorekeeper app for the Canasta card-game (supports Classic Canasta, Modern American, Samba and Pennies from Heaven scoring)
