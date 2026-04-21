@@ -43,4 +43,4 @@ This app does **not** implement the card game itself; it is a companion scorekee
 - iPhone / Apple Watch Widgets and Stacks
 
 ## Other Apps by Ian Weatherburn
-- [Canasta Companion - Scorekeeper](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524) - A scorekeeper app for the Canasta card-game (supports Classic Canasta, Modern American, Samba and Pennies from Heaven scoring)
+- [Canasta Companion - Scorecard]([https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524](https://apps.apple.com/us/app/canasta-companion/id6762453972)) - A scorekeeper app for the Canasta card-game (supports Classic Canasta, Modern American, Samba and Pennies from Heaven scoring)
